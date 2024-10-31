@@ -1,0 +1,7 @@
+C:\Users\MatějChmiel\source\repos\FM-Chmiel\FM-Chmiel\bin\Debug\FM-Chmiel.exe.config
+C:\Users\MatějChmiel\source\repos\FM-Chmiel\FM-Chmiel\bin\Debug\FM-Chmiel.exe
+C:\Users\MatějChmiel\source\repos\FM-Chmiel\FM-Chmiel\bin\Debug\FM-Chmiel.pdb
+C:\Users\MatějChmiel\source\repos\FM-Chmiel\FM-Chmiel\obj\Debug\FM-Chmiel.csproj.AssemblyReference.cache
+C:\Users\MatějChmiel\source\repos\FM-Chmiel\FM-Chmiel\obj\Debug\FM-Chmiel.csproj.CoreCompileInputs.cache
+C:\Users\MatějChmiel\source\repos\FM-Chmiel\FM-Chmiel\obj\Debug\FM-Chmiel.exe
+C:\Users\MatějChmiel\source\repos\FM-Chmiel\FM-Chmiel\obj\Debug\FM-Chmiel.pdb
